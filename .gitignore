@@ -1,0 +1,10 @@
+#workspace folders
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+[Ss]ervers/
+
+#project folders and files
+.settings/
+*.class
+lib/
